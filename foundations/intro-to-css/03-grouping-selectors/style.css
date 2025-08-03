@@ -1,0 +1,14 @@
+.btn-normal,
+.btn-urgent {
+  font-size: 24px;
+  font-family: Helvetica, Times New Roman, sans-serif
+}
+
+.btn-normal {
+  background-color: black;
+  color: white;
+}
+
+.btn-urgent {
+  background-color: yellow;
+}
